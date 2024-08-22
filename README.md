@@ -44,6 +44,7 @@ I'm a passionate software engineer from Ha Noi, Viet Nam, specializing in buildi
 
 ## 📈 GitHub Stats
 
-![Hieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyen-khac-hieu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-khac-hieu&layout=compact&theme=radical)
+![pumpkininin's Stats](https://github-readme-stats.vercel.app/api?username=pumpkininin&theme=default&show_icons=true&hide_border=false&count_private=true)
+![pumpkininin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pumpkininin&theme=default&hide_border=false)
+![pumpkininin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pumpkininin&theme=default&show_icons=true&hide_border=false&layout=compact)
 
