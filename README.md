@@ -18,7 +18,7 @@ I'm a passionate software engineer from Ha Noi, Viet Nam, specializing in buildi
 
 ## 💼 Professional Experience
 
-### Backend Developer | NTT DATA VDS Co.,Ltd (2021 - Present)
+### Backend Developer | NTT DATA VDS Co.,Ltd (2021 - 2024)
 
 #### **Product Order Management System (2021-2023)**
 - Developed a high-performance backend using Spring Boot in a microservices architecture.
